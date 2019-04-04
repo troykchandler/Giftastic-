@@ -1,0 +1,16 @@
+
+body, html 
+#intro {
+    background-image: url("https://amazingthings.org/wp-content/uploads/2018/05/Comedy-Generic-700x386.jpg  ");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  };
+  #B1 {
+    float:left;
+  }
+
+.jumbotron{
+    color:white;
+}
